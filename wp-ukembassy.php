@@ -4,7 +4,7 @@ Plugin Name: British Embassy Finder
 Plugin URI: http://travelchimps.com/widgets/uk-embassy-widget.php
 Description: Search for a Britsh Embassy, High Commission, or Consul anywhere in the world. Customisable
 Author: Andrew Wrigley
-Version: 1.1.0
+Version: 0.8.0
 Author URI: http://travelchimps.com/
 */
 /* FOR WP 2.8 ON 
