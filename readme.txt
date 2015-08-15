@@ -3,15 +3,21 @@ Contributors: wrigs1
 Donate link: http://travelchimps.com/
 Tags: Travel, Travel Information, British Embassy, British Consul, visa, travel widget, widget,
 Requires at least: 2.8
-Tested up to: 3.3.2
-Stable tag: 0.8.0
+Tested up to: 4.3 beta
+Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 
 Locate a Britsh Embassy, High Commission, or Consul anywhere in the world. Customisable.
 
 == Description ==
 
+**The plugin has been updated to work with Wordpress 4.3, however, no further updates will be made. Data used by the plugin is no longer provided by the FCO, so old information is used which may be out of date.**
+
 Designed for sites offering advice or assistance to British Nationals abroad. It uses official UK Foreign Office data to provide you and your visitors with address, contact details, visiting hours etc plus a map for any British Foreign Mission worldwide.
 It provides more information than the embassy finder tool on the UK Foreign Office web-site i.e. it includes a map to find the embassy/consul and sometimes an email address.
+
 
 Designed to blend in with your site, with options for changing alignment, width, colors (text, button etc) and button label text.
 
@@ -60,10 +66,16 @@ Post a comment on my [Travel Blog](http://blog.travelchimps.com)(I will be posti
 
 == Changelog ==
 
+= 0.8.2 =
+* updated for upcoming Wordpress 4.3; no more updates will be made. Data used by the plugin is no longer provided by the FCO, so old information is used which may be out of date.
+
 = 0.8.0 =
 * 19 March 2012: Initial release.
 
 == Upgrade Notice ==
+
+= 0.8.2 =
+* updated for upcoming Wordpress 4.3; no more updates will be made. Data used by the plugin is no longer provided by the FCO, so old information is used which may be out of date.
 
 = 0.8.0 = 
 initial release
